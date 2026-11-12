@@ -208,7 +208,7 @@ export default function Home() {
               <div className="relative h-64 w-64 overflow-hidden rounded-full border-8 border-[#F8F5FF] bg-purple-100 shadow-xl md:h-80 md:w-80">
 
                 <Image
-                  src="/joya.jpg"
+                  src="/Joya.jpg"
                   alt="Joyasree Bardhan"
                   fill
                   priority
